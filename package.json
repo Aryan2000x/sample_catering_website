@@ -1,0 +1,19 @@
+{
+  "name": "sample_catering_website",
+  "version": "1.0.0",
+  "description": "It's a beta web app development for a small catering business",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryan2000x/sample_catering_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aryan2000x/sample_catering_website/issues"
+  },
+  "homepage": "https://github.com/Aryan2000x/sample_catering_website#readme"
+}
